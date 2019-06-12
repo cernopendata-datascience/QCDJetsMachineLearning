@@ -6,6 +6,7 @@ This repository contains a Jupyter Notebook example on how to use the CMS OpenDa
 First clone the repository to your working directory.
 ```
 $ git clone https://github.com/cernopendata-datascience/QCDJetsMachineLearning
+$ cd QCDJetsMachineLearning/
 ```
 It is advisable to establish a Python virtual environment in which to install the required packages.
 ```
